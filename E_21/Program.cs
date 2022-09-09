@@ -13,7 +13,7 @@ int Coordinate(string coorName, string pointName)
 
 double Decision(double a, double d, 
                 double b, double f, 
-                double c, double zg)
+                double c, double g)
                 {
   return Math.Sqrt(Math.Pow((d-a), 2) + 
                    Math.Pow((f-b), 2) + 
